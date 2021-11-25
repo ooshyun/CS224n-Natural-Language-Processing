@@ -1,5 +1,5 @@
 # **Stanford CS224n: Natural Language Processing, 2018 & 2021 solution**
-This repository is constituted by cource Standford CS224n: Natural Language Processing with Deep Learning on Winter 2021. And Also include 2018 CS224n because of assignment 5 related to Convolution model based on **pytorch and Colab(.ipynb)**
+This repository constituted cource Standford CS224n: Natural Language Processing with Deep Learning on Winter 2021. And Also include 2018 CS224n because of assignment 5 related to Convolution model based on **pytorch and Colab(.ipynb)**
 
 **Course Related Links**
 
